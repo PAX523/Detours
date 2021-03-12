@@ -1,3 +1,17 @@
+https://ch4njun.tistory.com/138
+
+Add re-routing:
+
+```
+setdll.exe /d:simple32.dll sleep5.exe
+```
+
+Remove again:
+
+```
+setdll.exe /r sleep5.exe
+```
+
 # Microsoft Research Detours Package
 
 Detours is a software package for monitoring and instrumenting API calls on Windows. Detours
